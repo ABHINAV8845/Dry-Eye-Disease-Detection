@@ -1,4 +1,3 @@
- <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52c4b7df-48e3-4067-84cb-a80279844296" />
 # 👁️ Dry Eye Disease Detection using AI
 AI-based web application that predicts Dry Eye Disease using gene expression data.
 
