@@ -46,3 +46,6 @@ KLH - Department of CSE
 
 ## ⚠️ Note
 This project is for educational purposes and not a medical diagnosis tool.
+---
+output : <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52c4b7df-48e3-4067-84cb-a80279844296" />
+
