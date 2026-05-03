@@ -48,9 +48,11 @@ KLH - Department of CSE
 This project is for educational purposes and not a medical diagnosis tool.
 ---
 output : <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52c4b7df-48e3-4067-84cb-a80279844296" />
+<img width="1869" height="1075" alt="image" src="https://github.com/user-attachments/assets/bf9ac8e6-1524-41d9-b1fb-2fd464cdf77b" />
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a7ddddc0-56bc-4a72-960f-0b9968c8959d" />
 <img width="1898" height="1079" alt="image" src="https://github.com/user-attachments/assets/fe527fe6-d373-4fce-aec4-06c72daa8421" />
 ![Uploading image.png…]()
 
 
-<img width="1869" height="1075" alt="image" src="https://github.com/user-attachments/assets/9ceda0c2-3ec6-4755-9ae0-85b7c1848ad1" />
+
